@@ -2,11 +2,11 @@
 
 ### Description
 
-Creating a ML for predicting loan delinquency using UCI public dataset 'Default of Credit Card Clients', which contains credit card payment extract in 2005 from a taiwanese credit institution.
+This repository contains the analysis and developing of a ML for predicting loan delinquency using UCI public dataset 'Default of Credit Card Clients', which contains credit card payment data extracted in 2005 from a taiwanese credit institution.
 
 ### Presentation
 
-The model development is document in [Google Slides](!https://docs.google.com/presentation/d/1N826A42aq2fd1OfPGGuEFNblbhqq3P51FE9tFO05lE4/edit?usp=sharing).
+The model development is document in [Google Slides](https://docs.google.com/presentation/d/1N826A42aq2fd1OfPGGuEFNblbhqq3P51FE9tFO05lE4/edit?usp=sharing).
 
 
 ### Sources:
