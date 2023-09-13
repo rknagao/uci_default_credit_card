@@ -6,7 +6,7 @@ This repository contains the analysis and developing of a machine learning model
 
 ### Presentation
 
-The model development is documented in [Google Slides](https://drive.google.com/file/d/17dUj-mgDJXu6JGKLVTHTs25TSc_ZvW-n/view?usp=sharing).
+The model development is documented [here](https://drive.google.com/file/d/17dUj-mgDJXu6JGKLVTHTs25TSc_ZvW-n/view?usp=sharing).
 
 
 ### Sources:
